@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "df317f3d-3583-411f-8b1e-c9ad62fb8016",
+		"name": "INLOCK",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:5000/api/Estudios",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/Estudios",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Estudios"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

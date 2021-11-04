@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Properties.Controllers.JogosController.Cadastrar(WebApplication1.Properties.Domains.JogosDomain)">
+            <summary>
+            Cadastra um novo jogo
+            </summary>
+            <param name="novoJogo">Objeto novoJogo com as informações</param>
+            <returns>Retorna um status code 201 -Created</returns>
+        </member>
+    </members>
+</doc>
